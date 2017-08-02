@@ -1,0 +1,29 @@
+.badger-outter {background:#fff;border:1px solid#ccc;min-width:36px;height:36px;border-radius:18px;-moz-border-radius:18px;-webkit-border-radius:18px;box-shadow:0px 1px 5px#ccc;-moz-box-shadow:0px 1px 5px#ccc;-webkit-box-shadow:0px 1px 5px#ccc;float:left;position:absolute;top:-18px;right:-18px;z-index:9999;}
+.badger-inner {min-width:30px;height:30px;border-radius:15px;-moz-border-radius:15px;-webkit-border-radius:15px;background:#f13c31;background:-moz-linear-gradient(100%100%90deg,#f13c31,#f79690);background:-webkit-gradient(linear,0%0%,0%100%,from(#f79690),to(#f13c31));background:-webkit-linear-gradient(#f79690,#f13c31);background:-o-linear-gradient(#f79690,#f13c31);margin:3px;z-index:99999;}
+.badger-badge {line-height: normal; font-family: arial, sans-serif; color:#fff;padding:2px 5px;margin:0;text-align:center;text-shadow:0px-1px 1px#e01b0f;z-index:999999;}
+.badger-text {font-size:18px;}
+.badger-number {font-size:22px;}
+
+.badgerSmall-outter {background:#fff;border:1px solid#ccc;min-width:24px;height:24px;border-radius:12px;-moz-border-radius:12px;-webkit-border-radius:12px;box-shadow:0px 1px 5px#ccc;-moz-box-shadow:0px 1px 5px#ccc;-webkit-box-shadow:0px 1px 5px#ccc;float:left;position:absolute;top:-8px;right:-4px;z-index:9999;}
+.badgerSmall-inner {min-width:20px;height:20px;border-radius:10px;-moz-border-radius:10px;-webkit-border-radius:10px;background:#f13c31;background:-moz-linear-gradient(100%100%90deg,#f13c31,#f79690);background:-webkit-gradient(linear,0%0%,0%100%,from(#f79690),to(#f13c31));background:-webkit-linear-gradient(#f79690,#f13c31);background:-o-linear-gradient(#f79690,#f13c31);margin:2px;z-index:99999;}
+.badgerSmall-badge {line-height: normal; font-family: arial, sans-serif; color:#fff;padding:1px 4px;margin:0;text-align:center;text-shadow:0px-1px 1px#e01b0f;z-index:999999;}
+.badgerSmall-text {font-size:10px;}
+.badgerSmall-number {font-size:15px;}
+
+.badgerSmallBlack-outter {background:#fff;border:1px solid#ccc;min-width:24px;height:24px;border-radius:12px;-moz-border-radius:12px;-webkit-border-radius:12px;box-shadow:0px 1px 5px#ccc;-moz-box-shadow:0px 1px 5px#ccc;-webkit-box-shadow:0px 1px 5px#ccc;float:left;position:absolute;top:4px;right:4px;z-index:9999;}
+.badgerSmallBlack-inner {min-width:20px;height:20px;border-radius:10px;-moz-border-radius:10px;-webkit-border-radius:10px;background:#555;background:-moz-linear-gradient(100%100%90deg,#555,#000);background:-webkit-gradient(linear,0%0%,0%100%,from(#000),to(#555));background:-webkit-linear-gradient(#000,#555);background:-o-linear-gradient(#000,#555);margin:2px;z-index:99999;}
+.badgerSmallBlack-badge {line-height: normal; font-family: arial, sans-serif; color:#fff;padding:1px 4px;margin:0;text-align:center;text-shadow:0px-1px 1px#e01b0f;z-index:999999;}
+.badgerSmallBlack-text {font-size:17px;}
+.badgerSmallBlack-number {font-size:17px;}
+
+.badgerSmallBlue-outter {background:#fff;border:1px solid#ccc;min-width:24px;height:24px;border-radius:12px;-moz-border-radius:12px;-webkit-border-radius:12px;box-shadow:0px 1px 5px#ccc;-moz-box-shadow:0px 1px 5px#ccc;-webkit-box-shadow:0px 1px 5px#ccc;float:left;position:absolute;top:-5px;right:0px;z-index:9999;}
+.badgerSmallBlue-inner {min-width:20px;height:20px;border-radius:10px;-moz-border-radius:10px;-webkit-border-radius:10px;background:#55e;background:-moz-linear-gradient(100%100%90deg,#55e,#aaf);background:-webkit-gradient(linear,0%0%,0%100%,from(#aaf),to(#55e));background:-webkit-linear-gradient(#aaf,#55e);background:-o-linear-gradient(#aaf,#55e);margin:2px;z-index:99999;}
+.badgerSmallBlue-badge {line-height: normal; font-family: arial, sans-serif; color:#fff;padding:1px 4px;margin:0;text-align:center;text-shadow:0px-1px 1px#e01b0f;z-index:999999;}
+.badgerSmallBlue-text {font-size:17px;}
+.badgerSmallBlue-number {font-size:17px;}
+
+.badgerExtraSmallBlue-outter {background:#fff;border:1px solid#ccc;min-width:18px;height:18px;border-radius:9px;-moz-border-radius:9px;-webkit-border-radius:10px;box-shadow:0px 1px 5px#ccc;-moz-box-shadow:0px 1px 5px#ccc;-webkit-box-shadow:0px 1px 5px#ccc;float:left;position:absolute;top:-3px;right:0px;z-index:9999;}
+.badgerExtraSmallBlue-inner {min-width:14px;height:14px;border-radius:7px;-moz-border-radius:7px;-webkit-border-radius:7px;background:#55e;background:-moz-linear-gradient(100%100%90deg,#55e,#aaf);background:-webkit-gradient(linear,0%0%,0%100%,from(#aaf),to(#55e));background:-webkit-linear-gradient(#aaf,#55e);background:-o-linear-gradient(#aaf,#55e);margin:2px;z-index:99999;}
+.badgerExtraSmallBlue-badge {line-height: normal; font-family: arial, sans-serif; color:#fff;padding:1px 4px;margin:0;text-align:center;text-shadow:0px-1px 1px#e01b0f;z-index:999999;}
+.badgerExtraSmallBlue-text {font-size:12px;}
+.badgerExtraSmallBlue-number {font-size:12px;}
